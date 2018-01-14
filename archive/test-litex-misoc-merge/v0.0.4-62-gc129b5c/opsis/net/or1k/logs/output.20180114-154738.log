@@ -1,0 +1,18 @@
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libcompiler_rt'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libcompiler_rt'
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libbase'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libbase'
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libnet'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/libnet'
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/bios'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/bios'
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/uip'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/uip'
+make[1]: Entering directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/firmware'
+make[1]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+make[1]: Leaving directory `/home/travis/build/mithro/HDMI2USB-litex-firmware/build/opsis_net_or1k/software/firmware'
