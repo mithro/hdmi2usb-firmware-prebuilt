@@ -1,4 +1,8 @@
 13d2e05169888208542bbf712913f25b497df90e9217c94b579d59a0cb892616  ./README.md
+9aa88afd479f35703ee8c3ccc1174ff6db2ff3d805c6f5e50a99d722e6baef2f  ./mimasv2/base/lm32/channels.txt
+44368af1c6a39f6aa3892126f1ee3b12a9db5f06151d6e0bbfcea02db27fcc1a  ./mimasv2/base/lm32/stable.sha256sum
+ddf9c0b5723871e0728c63709fa43522a88d62004bd75da4e69d61710e014c27  ./mimasv2/base/lm32/testing.sha256sum
+97e6f9a45e2818f9286785cb8bd98695d296a1a989b0f8668222e8cb6f0ca9c1  ./mimasv2/base/lm32/unstable.sha256sum
 f6024cec2f09b0d89348417f2f1d5288c8d800672ef5fee971dcf29dd167dde2  ./opsis/base/lm32/channels.txt
 ae9c4354d398df8cb688c438c52a93e9377738fb094bdadd40abc72443bcce6a  ./opsis/base/lm32/stable.sha256sum
 77d245724dcbb4a578e7c34dd457f31cefc6e39a791450827fc408706a0f7d5f  ./opsis/base/lm32/testing.sha256sum
