@@ -1,4 +1,8 @@
 13d2e05169888208542bbf712913f25b497df90e9217c94b579d59a0cb892616  ./README.md
+f4afebb574d43a14a36564ca61651aba0e67be2fd505bea95649b48cc885cfaf  ./arty/base/lm32/channels.txt
+2dbc5895e559bf1f9c341865d65f0973e7f5ee23122fc7cde62ed4ce342ed117  ./arty/base/lm32/stable.sha256sum
+dcd4734291477db9da26063d09b20af67fa7d29b52ebb8bed2a0116c8d45a175  ./arty/base/lm32/testing.sha256sum
+7a4fe99ac0fee57b1db2ba000848f4b42b46a453cdb27d3144f0a156576d1a32  ./arty/base/lm32/unstable.sha256sum
 a18f75480dd802570df479c25ede8f21486bb8ed3e1c1b19e6fd4ecae3eca267  ./atlys/base/lm32/channels.txt
 4ddaa0ad59768ffc91e7b413977eec13924d6fd64af0d1ae9e3b028758722ed8  ./atlys/base/lm32/stable.sha256sum
 1013b006901a15519aec8f3c7edbf165ef42bee4a8e2aaec3dc045927f3f5669  ./atlys/base/lm32/testing.sha256sum
