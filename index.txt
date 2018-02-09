@@ -49,10 +49,10 @@ af8693f91581c23bc1b69b44141ef67abe0c04d6e15a5abb5b3907b144260653  ./minispartan6
 ff76b5b97f551b958879c641f7483e1fde037ac613da93301b92c0357b8fc680  ./netv2/base/lm32/stable.sha256sum
 a8cc5f9391c66dcb699c824f58e84f784c157c5077f36208a0eae87b1582b0de  ./netv2/base/lm32/testing.sha256sum
 cf6deca0239a0524201237851e765669ce958952028edc487b599716761fc817  ./netv2/base/lm32/unstable.sha256sum
-0d27c9e748f5cf4f13f7d85de71039aa7c87797df42cf4ff219dcdf9495aa0ec  ./netv2/video/lm32/channels.txt
-8a5aa1f08cd8c8d4211b0c525400e54a3bea70eea7357c735437a2dce277a039  ./netv2/video/lm32/stable.sha256sum
+ba1ac5fd8f133cb013d148fb1bdba97b4d962eebc604c99cadfb677324deb648  ./netv2/video/lm32/channels.txt
+90ef815146e7806c93980e52c2dc18e781a61174d05fbcd1548a0e0fce48e558  ./netv2/video/lm32/stable.sha256sum
 4aeacb1bf7e03ee3097f4a14ebf80e65606eb73ce12aaab39e4296cd66e879c8  ./netv2/video/lm32/testing.sha256sum
-10a82a98ce22f91bedeb3f86de106b6c5f170ec90ff53e01e780cf6436b8651c  ./netv2/video/lm32/unstable.sha256sum
+31e97e46d111fa170ce5aef2ad541455b44c01025ac4dac68c875e5781e2e37e  ./netv2/video/lm32/unstable.sha256sum
 fdfa2d1b6571db4436dae7412a5f1aaf1a487f466c18849e06f592b8ec62db3b  ./nexys_video/base/lm32/channels.txt
 71efc06fa83e184114ec18f114ac5ec8bc9f0b10a676405c016d709aca0246ba  ./nexys_video/base/lm32/stable.sha256sum
 c78abe8ec06091cbcb0fd7d36839aff1312b3285d37e0fde9e18f28ef918cd18  ./nexys_video/base/lm32/testing.sha256sum
