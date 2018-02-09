@@ -7,6 +7,10 @@ ddf9c0b5723871e0728c63709fa43522a88d62004bd75da4e69d61710e014c27  ./mimasv2/base
 bae74e6b6a657f49cd45959796f56c8abaaf0bd4dd0b2867d50adb9d6ab5ca48  ./minispartan6/base/lm32/stable.sha256sum
 ada3106fc88558a3d2906ae72083cc930e88e3dba87a801026d7b8a5dfa670aa  ./minispartan6/base/lm32/testing.sha256sum
 67879b10663e9e381bf9fc2d73580ebff0b154d75267bccd2ceaed707a4815b3  ./minispartan6/base/lm32/unstable.sha256sum
+ff06d28b02ae5c349cb65ffaf203c6f85b4eb9259e90504362ff64da00efff96  ./netv2/base/lm32/channels.txt
+d65cbe064bd2d9d1a21101a076c3936062a0a025d921d67ddb8ada1bbf57d03f  ./netv2/base/lm32/stable.sha256sum
+e0ab5c4bb588033806b365a35bf6b41d1b1c560a651826be9396db3d5bd8dd19  ./netv2/base/lm32/testing.sha256sum
+0e38c7dfd59165c951eb98895285f3206596b8570118cf2a0f823038e0d3cbe3  ./netv2/base/lm32/unstable.sha256sum
 f6024cec2f09b0d89348417f2f1d5288c8d800672ef5fee971dcf29dd167dde2  ./opsis/base/lm32/channels.txt
 ae9c4354d398df8cb688c438c52a93e9377738fb094bdadd40abc72443bcce6a  ./opsis/base/lm32/stable.sha256sum
 77d245724dcbb4a578e7c34dd457f31cefc6e39a791450827fc408706a0f7d5f  ./opsis/base/lm32/testing.sha256sum
