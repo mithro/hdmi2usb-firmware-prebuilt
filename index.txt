@@ -84,4 +84,7 @@ ad7c688f3b95e8e7f54019f59be1991651f46de8a8d07ade51ff1527c2d68702  ./opsis/net/lm
 44c699bbda270dbcf8f4aec6185bdfa018e80512c37248c4190e5d8416e4360f  ./pipistrello/base/lm32/channels.txt
 57acad350678110fb3040255f5a821a65d5a54f63968defc33fd492f7b037afd  ./pipistrello/base/lm32/testing.sha256sum
 f5a61c9249ae2f76e8e5f5d37739177ec6d905515934f3047d7edd8459d0fe04  ./pipistrello/base/lm32/unstable.sha256sum
+58b753fce3ddaa77aafe8262f21284b4f872d950bab535bf81128a3faa151cba  ./pipistrello/base/or1k/channels.txt
+0cc857c66aa0a859b6aabdc0390f6ab4b4f0bb9d7654341e9542b6abc1b6ae6b  ./pipistrello/base/or1k/testing.sha256sum
+881935a2ca601c8479926925d5d93ecc34428a442b7ed55789ca518116e82fdf  ./pipistrello/base/or1k/unstable.sha256sum
 035dd946850ea544da91fedbe57a79ccf2fa33538bf82fcfa91c72bfe660e0c8  ./revs.txt
