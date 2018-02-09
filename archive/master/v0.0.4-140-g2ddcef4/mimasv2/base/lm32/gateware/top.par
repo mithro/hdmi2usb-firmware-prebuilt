@@ -1,7 +1,7 @@
 Release 14.7 par P.20131013 (lin64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
-travis-job-mithro-hdmi2usb-litex-339309966.travisci.net::  Fri Feb 09 05:05:55
+travis-job-mithro-hdmi2usb-litex-339309966.travisci.net::  Fri Feb 09 05:27:07
 2018
 
 par -ol high -w top_map.ncd top.ncd top.pcf 
@@ -107,37 +107,37 @@ Router effort level (-rl):    High
 
 INFO:Timing:3386 - Intersecting Constraints found and resolved.  For more information, see the TSI report.  Please consult the Xilinx
    Command Line Tools User Guide for information on generating a TSI report.
-Starting initial Timing Analysis.  REAL time: 12 secs 
-Finished initial Timing Analysis.  REAL time: 13 secs 
+Starting initial Timing Analysis.  REAL time: 8 secs 
+Finished initial Timing Analysis.  REAL time: 8 secs 
 
 Starting Router
 
 
-Phase  1  : 22002 unrouted;      REAL time: 13 secs 
+Phase  1  : 22002 unrouted;      REAL time: 9 secs 
 
-Phase  2  : 19207 unrouted;      REAL time: 15 secs 
+Phase  2  : 19207 unrouted;      REAL time: 10 secs 
 
-Phase  3  : 9155 unrouted;      REAL time: 24 secs 
+Phase  3  : 9155 unrouted;      REAL time: 18 secs 
 
-Phase  4  : 9164 unrouted; (Setup:650, Hold:23720, Component Switching Limit:0)     REAL time: 26 secs 
-
-Updating file: top.ncd with current fully routed design.
-
-Phase  5  : 0 unrouted; (Setup:574, Hold:22334, Component Switching Limit:0)     REAL time: 48 secs 
-
-Phase  6  : 0 unrouted; (Setup:505, Hold:22334, Component Switching Limit:0)     REAL time: 50 secs 
+Phase  4  : 9164 unrouted; (Setup:650, Hold:23720, Component Switching Limit:0)     REAL time: 21 secs 
 
 Updating file: top.ncd with current fully routed design.
 
-Phase  7  : 0 unrouted; (Setup:395, Hold:22334, Component Switching Limit:0)     REAL time: 1 mins 16 secs 
+Phase  5  : 0 unrouted; (Setup:574, Hold:22334, Component Switching Limit:0)     REAL time: 37 secs 
 
-Phase  8  : 0 unrouted; (Setup:395, Hold:22334, Component Switching Limit:0)     REAL time: 1 mins 16 secs 
+Phase  6  : 0 unrouted; (Setup:505, Hold:22334, Component Switching Limit:0)     REAL time: 38 secs 
 
-Phase  9  : 0 unrouted; (Setup:395, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 16 secs 
+Updating file: top.ncd with current fully routed design.
 
-Phase 10  : 0 unrouted; (Setup:395, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 18 secs 
-Total REAL time to Router completion: 1 mins 18 secs 
-Total CPU time to Router completion: 1 mins 26 secs 
+Phase  7  : 0 unrouted; (Setup:395, Hold:22334, Component Switching Limit:0)     REAL time: 1 mins 8 secs 
+
+Phase  8  : 0 unrouted; (Setup:395, Hold:22334, Component Switching Limit:0)     REAL time: 1 mins 8 secs 
+
+Phase  9  : 0 unrouted; (Setup:395, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 8 secs 
+
+Phase 10  : 0 unrouted; (Setup:395, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 11 secs 
+Total REAL time to Router completion: 1 mins 11 secs 
+Total CPU time to Router completion: 1 mins 24 secs 
 
 Partition Implementation Status
 -------------------------------
@@ -261,8 +261,8 @@ Generating Pad Report.
 
 All signals are completely routed.
 
-Total REAL time to PAR completion: 1 mins 20 secs 
-Total CPU time to PAR completion: 1 mins 29 secs 
+Total REAL time to PAR completion: 1 mins 14 secs 
+Total CPU time to PAR completion: 1 mins 27 secs 
 
 Peak Memory Usage:  734 MB
 
