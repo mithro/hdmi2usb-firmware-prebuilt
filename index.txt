@@ -31,4 +31,8 @@ f6024cec2f09b0d89348417f2f1d5288c8d800672ef5fee971dcf29dd167dde2  ./opsis/base/l
 ae9c4354d398df8cb688c438c52a93e9377738fb094bdadd40abc72443bcce6a  ./opsis/base/lm32/stable.sha256sum
 77d245724dcbb4a578e7c34dd457f31cefc6e39a791450827fc408706a0f7d5f  ./opsis/base/lm32/testing.sha256sum
 66c09ee10713df809fc9fc044a209d0d11e2c415d4f57ed82dbd5154f685c734  ./opsis/base/lm32/unstable.sha256sum
+360a7c8cea9d64a265907b39a65f83ee1f715fa90a594fcb91797c49b36a7c3e  ./opsis/net/lm32/channels.txt
+f0920a15f6fd3174a17170c4f115b1e625aec62a88c1df6a1093816f556ed22e  ./opsis/net/lm32/stable.sha256sum
+a4bc47549c23dfceb52eb43f1f0ba9406cae847cdcfe7527d1d2600dcc7190f8  ./opsis/net/lm32/testing.sha256sum
+763c3f62d9081bd15720663a26c30b0e0de7585e8cc830b973507c626cbceb5a  ./opsis/net/lm32/unstable.sha256sum
 4a83be4bcf2673af75906c93b45f7a5a2885058754e75bff89885acac8c72b6f  ./revs.txt
