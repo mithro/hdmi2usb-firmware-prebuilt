@@ -6,7 +6,7 @@ SE_DS/ISE/.
    "top" is an NCD, version 3.2, device xc6slx45t, package fgg484, speed -3
 Opened constraints file top.pcf.
 
-Mon Mar  5 20:20:52 2018
+Mon Mar  5 20:39:39 2018
 
 /home/travis/build/mithro/HDMI2USB-litex-firmware/build/Xilinx/opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/bitgen -g Binary:Yes -w -g ProgPin:PullUp -g DonePin:PullUp -g TckPin:PullNone -g TdiPin:PullNone -g TdoPin:PullNone -g TmsPin:PullNone -g UnusedPin:PullNone top.ncd top.bit 
 

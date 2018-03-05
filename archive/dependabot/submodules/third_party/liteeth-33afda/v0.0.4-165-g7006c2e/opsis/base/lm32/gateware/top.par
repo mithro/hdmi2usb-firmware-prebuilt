@@ -1,7 +1,7 @@
 Release 14.7 par P.20131013 (lin64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
-travis-job-mithro-hdmi2usb-litex-349452487.travisci.net::  Mon Mar 05 20:19:10
+travis-job-mithro-hdmi2usb-litex-349452487.travisci.net::  Mon Mar 05 20:37:57
 2018
 
 par -ol high -w top_map.ncd top.ncd top.pcf 
@@ -250,7 +250,7 @@ Generating Pad Report.
 All signals are completely routed.
 
 Total REAL time to PAR completion: 1 mins 31 secs 
-Total CPU time to PAR completion: 1 mins 35 secs 
+Total CPU time to PAR completion: 1 mins 34 secs 
 
 Peak Memory Usage:  783 MB
 
