@@ -5,7 +5,7 @@
     The structure and the elements are likely to change over the next few releases.
     This means code written to parse this file will need to be revisited each subsequent release.-->
 
-  <application stringID="Map" timeStamp="Sun Mar 18 00:23:12 2018">
+  <application stringID="Map" timeStamp="Sun Mar 18 01:11:11 2018">
     <section stringID="User_Env">
       <table stringID="User_EnvVar">
         <column stringID="variable"/>
@@ -51,7 +51,7 @@
         <item stringID="User_EnvOsname" value="Ubuntu"/>
         <item stringID="User_EnvOsrelease" value="Ubuntu 14.04.5 LTS"/>
       </item>
-      <item stringID="User_EnvHost" value="travis-job-mithro-hdmi2usb-litex-354870918.travisci.net"/>
+      <item stringID="User_EnvHost" value="travis-job-mithro-hdmi2usb-litex-354882928.travisci.net"/>
       <table stringID="User_EnvCpu">
         <column stringID="arch"/>
         <column stringID="speed"/>
@@ -120,9 +120,9 @@
         <item dataType="int" stringID="MAP_NUM_ERRORS" value="0"/>
         <item dataType="int" stringID="MAP_FILTERED_WARNINGS" value="0"/>
         <item dataType="int" stringID="MAP_NUM_WARNINGS" value="9"/>
-        <item UNITS="KB" dataType="int" stringID="MAP_PEAK_MEMORY" value="881488"/>
-        <item stringID="MAP_TOTAL_REAL_TIME" value="1 mins 40 secs "/>
-        <item stringID="MAP_TOTAL_CPU_TIME" value="1 mins 40 secs "/>
+        <item UNITS="KB" dataType="int" stringID="MAP_PEAK_MEMORY" value="881688"/>
+        <item stringID="MAP_TOTAL_REAL_TIME" value="1 mins 53 secs "/>
+        <item stringID="MAP_TOTAL_CPU_TIME" value="1 mins 53 secs "/>
       </section>
       <section stringID="MAP_SLICE_REPORTING">
         <item AVAILABLE="54576" dataType="int" label="Number of Slice Registers" stringID="MAP_SLICE_REGISTERS" value="2594">
