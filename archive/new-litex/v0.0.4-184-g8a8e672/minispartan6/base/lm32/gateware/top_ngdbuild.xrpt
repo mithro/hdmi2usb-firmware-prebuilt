@@ -5,7 +5,7 @@
     The structure and the elements are likely to change over the next few releases.
     This means code written to parse this file will need to be revisited each subsequent release.-->
 
-  <application stringID="NgdBuild" timeStamp="Sun Mar 18 00:23:54 2018">
+  <application stringID="NgdBuild" timeStamp="Sun Mar 18 01:07:08 2018">
     <section stringID="User_Env">
       <table stringID="User_EnvVar">
         <column stringID="variable"/>
@@ -51,13 +51,13 @@
         <item stringID="User_EnvOsname" value="Ubuntu"/>
         <item stringID="User_EnvOsrelease" value="Ubuntu 14.04.5 LTS"/>
       </item>
-      <item stringID="User_EnvHost" value="travis-job-mithro-hdmi2usb-litex-354870922.travisci.net"/>
+      <item stringID="User_EnvHost" value="travis-job-mithro-hdmi2usb-litex-354882930.travisci.net"/>
       <table stringID="User_EnvCpu">
         <column stringID="arch"/>
         <column stringID="speed"/>
         <row stringID="row" value="0">
           <item stringID="arch" value="Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz"/>
-          <item stringID="speed" value="2800.294 MHz"/>
+          <item stringID="speed" value="2799.919 MHz"/>
         </row>
       </table>
     </section>
