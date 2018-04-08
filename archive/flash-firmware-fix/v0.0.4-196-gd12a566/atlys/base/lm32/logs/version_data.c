@@ -1,0 +1,19 @@
+
+#ifndef PLATFORM_ATLYS
+#error "Version mismatch - PLATFORM_ATLYS not defined!"
+#endif
+const char* board = "atlys";
+
+#ifndef TARGET_BASE
+#error "Version mismatch - TARGET_BASE not defined!"
+#endif
+const char* target = "base";
+
+const char* git_commit = "d12a56665870234d17e0d980293431fd33749b40";
+const char* git_branch = "flash-firmware-fix";
+const char* git_describe = "v0.0.4-196-gd12a566";
+const char* git_status =
+    "    --\r\n"
+
+    "    --\r\n";
+
