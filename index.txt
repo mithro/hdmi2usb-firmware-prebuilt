@@ -107,3 +107,5 @@ d5b1d85ca89eb3faae20dc5a19d04fbce9672551f990b1d5f876a8e01a67aaf5  ./pipistrello/
 0cc857c66aa0a859b6aabdc0390f6ab4b4f0bb9d7654341e9542b6abc1b6ae6b  ./pipistrello/base/or1k/testing.sha256sum
 8fbbbc4292c603eae6fdfa831d021991e55a49ce03d59cf60ba0b554637ecf94  ./pipistrello/base/or1k/unstable.sha256sum
 b3d6910c3ed294aa32ef34d9f19e3cdf6f2a665cd6c09dbb9f1cd9ead9f6e69c  ./revs.txt
+63db12b1760985c00b9f2b54109b6272286c1cd4adafc1deeb73c3d47f9c2ff7  ./waxwing/base/lm32/channels.txt
+9d1a811285a4f81297d4e5e5a95192afdbacd650bac96c309032308fffec585f  ./waxwing/base/lm32/unstable.sha256sum
