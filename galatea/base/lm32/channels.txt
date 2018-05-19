@@ -1,1 +1,1 @@
-unstable v0.0.4-235-g632391d https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-235-g632391d/galatea/base/lm32/
+unstable v0.0.4-239-gdcbcc05 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-239-gdcbcc05/galatea/base/lm32/
