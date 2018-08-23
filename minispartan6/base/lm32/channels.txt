@@ -1,3 +1,1 @@
-stable v0.0.3-1045-gccb30b9 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.3-1045-gccb30b9/minispartan6/base/lm32/
-testing v0.0.4-122-gbc7feb5 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-122-gbc7feb5/minispartan6/base/lm32/
-unstable v0.0.4-192-g7a70488 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-192-g7a70488/minispartan6/base/lm32/
+unstable v0.0.4-197-gdaf33bc https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-197-gdaf33bc/minispartan6/base/lm32/
