@@ -107,7 +107,7 @@ b3fde52ca5eee7433bcb9c842dfe2dd0aca166ef5b4c035d5be7d8be13ef97e6  ./pipistrello/
 0cc857c66aa0a859b6aabdc0390f6ab4b4f0bb9d7654341e9542b6abc1b6ae6b  ./pipistrello/base/or1k/testing.sha256sum
 ccc0e386408d84e1a1f65c9982c4555df678d2500d1b534a0b1d73436ce2c127  ./pipistrello/base/or1k/unstable.sha256sum
 f94f9aabae40200b6dea987758355645110386dc499ef0c21b6aaf09c666e3d3  ./revs.txt
-6815bd23bd1571a453a51c0c65ecc46d60cc0fbd5a600389c02cca88e0042c67  ./saturn/base/lm32/channels.txt
-57aa2c7499cbba7d09ab1d4801e43d804b2a46fc4f0ce0f4c2f693d3066f04a8  ./saturn/base/lm32/unstable.sha256sum
+cf5c7128ead135d54a13aa1c61154f7083aceb8f5224a2b0cf50222addfb8bab  ./saturn/base/lm32/channels.txt
+1cdd52664e960ccb2dfa6725febf09bf171f13d618c249be2f1bda5d606d6c66  ./saturn/base/lm32/unstable.sha256sum
 dfe9112ffc40652416301bed70e917d876de6f336cbf4927a9f54fb7cf598a30  ./waxwing/base/lm32/channels.txt
 a7fe5c7f8c17265dd2645b8c5d8fe7797229d58562c2de98c8159d3bc3ef54f9  ./waxwing/base/lm32/unstable.sha256sum
