@@ -44,10 +44,10 @@ e8e095cf6c57a480fc47c0b49515bc6afc9aaf4529e53304eaddf323951dbe8a  ./atlys/video/
 68f076ee9cc3fad7e1c26d079b5aba82dec9a993b0f10a1e76e439596d286b36  ./atlys/video/lm32/unstable.sha256sum
 a916c74f74b1eaec7f18b2321fe9c345d5c6a10818cfa0751802c0818e653639  ./galatea/base/lm32/channels.txt
 9310e7c0b08cd4adbca7e4b2dae6145745c8a745fc166680547cf95dcf4fd734  ./galatea/base/lm32/unstable.sha256sum
-0df541f2b12f92b3628c9031c24f3dd9c068c002b59e4bb57a2424c7511d7223  ./mimasv2/base/lm32/channels.txt
+56c33d27c35f6505db65c22e69059cba4df2040d7a4e811f50947bc461a799e0  ./mimasv2/base/lm32/channels.txt
 dde95f9480d32da848ebb73b867d0f18c18c9d2ddd889006f0b3ceee81af91c6  ./mimasv2/base/lm32/stable.sha256sum
 f8de156ebe8d0967fc8c96033bc5b905d81c746abb9c936012a4ec9516bd67cc  ./mimasv2/base/lm32/testing.sha256sum
-dff75f926c2227d6323aba9a7f62e876e79d221955de92d7d430fff604ff1175  ./mimasv2/base/lm32/unstable.sha256sum
+d165cc0a220df1bb15fbd8e66afaed1970992bb7190bf161a3bc0f2405b15f2b  ./mimasv2/base/lm32/unstable.sha256sum
 b36a6095c27b0d213594ca9a9904514506d2e9fc2959e3ee4cd271a3d942ec05  ./mimasv2/base/or1k/channels.txt
 572b556bd322a6c641251e63104ad319c42b3c2fa58bd4d572256919e9df5103  ./mimasv2/base/or1k/stable.sha256sum
 b122c9513c60f6c8b77b2986bde196cb434f60932ab0b0dfb17fbfef9f96f7be  ./mimasv2/base/or1k/testing.sha256sum
@@ -106,7 +106,7 @@ b3fde52ca5eee7433bcb9c842dfe2dd0aca166ef5b4c035d5be7d8be13ef97e6  ./pipistrello/
 19fd8b6be531692ac9ce2cfdf66202649406f2b1f4ac157408cdd39373d1a737  ./pipistrello/base/or1k/channels.txt
 0cc857c66aa0a859b6aabdc0390f6ab4b4f0bb9d7654341e9542b6abc1b6ae6b  ./pipistrello/base/or1k/testing.sha256sum
 ccc0e386408d84e1a1f65c9982c4555df678d2500d1b534a0b1d73436ce2c127  ./pipistrello/base/or1k/unstable.sha256sum
-2240d5b713f2242c37f8e6f8c126f9bac34499c1c275f36c3673589cdd7283d1  ./revs.txt
+f94f9aabae40200b6dea987758355645110386dc499ef0c21b6aaf09c666e3d3  ./revs.txt
 6815bd23bd1571a453a51c0c65ecc46d60cc0fbd5a600389c02cca88e0042c67  ./saturn/base/lm32/channels.txt
 57aa2c7499cbba7d09ab1d4801e43d804b2a46fc4f0ce0f4c2f693d3066f04a8  ./saturn/base/lm32/unstable.sha256sum
 dfe9112ffc40652416301bed70e917d876de6f336cbf4927a9f54fb7cf598a30  ./waxwing/base/lm32/channels.txt
