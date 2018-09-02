@@ -11,9 +11,9 @@ b5881c383d4119c34c09a964bb7860ffd6f156cc8231c855ca74d33f16e1493f  ./arty/base/lm
 17352675a2830d3c3ab9f77f692dc54a057c85e7b8cfb4ce79ff0a9e7fb4e44e  ./arty/net/lm32/stable.sha256sum
 2405624f29ad0c630ef1df8762aca482acd1e8032a86d6ad1fc767650f5bce5d  ./arty/net/lm32/testing.sha256sum
 049073a2525a2791de7748a6cec674eaaca041e1ec8acf9e986437c6f24a23f0  ./arty/net/lm32/unstable.sha256sum
-cfab1ea9ca700f5828bd0d95705a2b93de2b4022de8644902ce6d2ef442bafe0  ./arty/net/or1k.linux/channels.txt
+4e849eb59bb322913e6a93e8d50dcdb1cb3a5b2632c9c2ce1e821b519083077d  ./arty/net/or1k.linux/channels.txt
 5af3e70ea8ad8733825ef636bf47c2daf466edac3480050cb8bed7f6948c999f  ./arty/net/or1k.linux/testing.sha256sum
-d4b09b67c76997a3b6d0ed0f40a0ddc4aa51edd4b40f23780055416a2dad79ec  ./arty/net/or1k.linux/unstable.sha256sum
+09a0b5181ac7647693fe7ccaf9c5e686541e9953d551a8d3c2cd243ad8bfefa7  ./arty/net/or1k.linux/unstable.sha256sum
 6205482b9dbd46c100a223b429a3ac8f26b5f9dcb573f40591b98bbb9d18fe53  ./arty/net/or1k/channels.txt
 3b4a2483c12d7aa124120356b45f0edee07b50135675e67e0597207391ba65d4  ./arty/net/or1k/stable.sha256sum
 06b9305fe53827073235d0ca877b473a42a926527761106712fbce94d1c7eb6b  ./arty/net/or1k/testing.sha256sum
