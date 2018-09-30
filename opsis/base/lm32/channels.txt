@@ -1,1 +1,1 @@
-unstable v0.0.4-295-gb175a69 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-295-gb175a69/opsis/base/lm32/
+unstable v0.0.4-338-gca5459f https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-338-gca5459f/opsis/base/lm32/
