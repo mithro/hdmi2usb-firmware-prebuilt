@@ -1,1 +1,1 @@
-unstable v0.0.4-248-g1dd89e6 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-248-g1dd89e6/netv2/base/lm32/
+unstable v0.0.4-338-gca5459f https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-338-gca5459f/netv2/base/lm32/
