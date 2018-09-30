@@ -20,6 +20,8 @@ d4dfb84898cfda2200715c5a8136391710b707e4f049dc88e7d417f12ac39924  ./arty/net/or1
 3b4a2483c12d7aa124120356b45f0edee07b50135675e67e0597207391ba65d4  ./arty/net/or1k/stable.sha256sum
 06b9305fe53827073235d0ca877b473a42a926527761106712fbce94d1c7eb6b  ./arty/net/or1k/testing.sha256sum
 507b7b2f793713c9b6c15b7d660dff64de7ff0a97bc11bfccc2c9a6e8196ba3b  ./arty/net/or1k/unstable.sha256sum
+fe74242ac98e04f79ccd6ed921d4a4e83c49cc711ec21003c07b96193444345a  ./arty/net/vexriscv/channels.txt
+6511bfc444717a504bd6b96e887e93ab0cac168652c53da6b1849ccc26ba2376  ./arty/net/vexriscv/unstable.sha256sum
 d01628b07d4f9a1fe428b630096d12423ce7d093bb5a71c99996d46bed9b9d33  ./atlys/base/lm32/channels.txt
 fca9069f8b7fe2de030fc75743673696ebe2c381ef700d1b0784bec7b912e18a  ./atlys/base/lm32/stable.sha256sum
 77f3db85d038e3a86d21de103fb490230cd620e9f689b1bbc79a3871b7d7808c  ./atlys/base/lm32/testing.sha256sum
