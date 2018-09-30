@@ -1,1 +1,1 @@
-unstable v0.0.4-283-ge260e6e https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-283-ge260e6e/opsis/base/or1k/
+unstable v0.0.4-338-gca5459f https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-338-gca5459f/opsis/base/or1k/
