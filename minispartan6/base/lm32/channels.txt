@@ -1,1 +1,1 @@
-unstable v0.0.4-197-gdaf33bc https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-197-gdaf33bc/minispartan6/base/lm32/
+unstable v0.0.4-338-gca5459f https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-338-gca5459f/minispartan6/base/lm32/
