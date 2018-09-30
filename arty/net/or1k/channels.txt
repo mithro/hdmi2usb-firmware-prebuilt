@@ -1,1 +1,1 @@
-unstable v0.0.4-289-g0315225 https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-289-g0315225/arty/net/or1k/
+unstable v0.0.4-338-gca5459f https://github.com/mithro/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-338-gca5459f/arty/net/or1k/
