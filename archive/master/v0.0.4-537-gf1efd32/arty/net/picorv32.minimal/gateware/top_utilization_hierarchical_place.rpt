@@ -1,0 +1,30 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (lin64) Build 2018833 Wed Oct  4 19:58:07 MDT 2017
+| Date         : Mon Jul  8 21:46:04 2019
+| Host         : travis-job-d2103dd0-7fac-408d-88ea-131418f43a47 running 64-bit Ubuntu 14.04.5 LTS
+| Command      : report_utilization -hierarchical -file top_utilization_hierarchical_place.rpt
+| Design       : top
+| Device       : 7a35tcsg324-1
+| Design State : Fully Placed
+---------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++------------+----------+------------+------------+---------+------+------+--------+--------+--------------+
+|  Instance  |  Module  | Total LUTs | Logic LUTs | LUTRAMs | SRLs |  FFs | RAMB36 | RAMB18 | DSP48 Blocks |
++------------+----------+------------+------------+---------+------+------+--------+--------+--------------+
+| top        |    (top) |       4189 |       3915 |     272 |    2 | 3403 |     18 |     27 |            0 |
+|   (top)    |    (top) |       2718 |       2532 |     184 |    2 | 2912 |     18 |     27 |            0 |
+|   picorv32 | picorv32 |       1471 |       1383 |      88 |    0 |  491 |      0 |      0 |            0 |
++------------+----------+------------+------------+---------+------+------+--------+--------+--------------+
+* Note: The sum of lower-level cells may be larger than their parent cells total, due to cross-hierarchy LUT combining
+
+
