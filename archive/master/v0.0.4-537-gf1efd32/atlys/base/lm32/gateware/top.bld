@@ -17,48 +17,51 @@ Checking Constraint Associations...
 INFO:ConstraintSystem:178 - TNM 'PRDclk100', used in period specification
    'TSclk100', was traced into BUFIO2 instance BUFIO2. The following new TNM
    groups and period specifications were generated at the BUFIO2 output(s): 
-   DIVCLK: <TIMESPEC TS_crg_clk100b = PERIOD "crg_clk100b" TSclk100 HIGH 50%>
+   DIVCLK: <TIMESPEC TS_crg_clk100b_0 = PERIOD "crg_clk100b_0" TSclk100 HIGH
+   50%>
 
 INFO:ConstraintSystem:178 - TNM 'PRDclk100', used in period specification
    'TSclk100', was traced into DCM_CLKGEN instance crg_periph_dcm_clkgen. The
    following new TNM groups and period specifications were generated at the
    DCM_CLKGEN output(s): 
-   CLKFX: <TIMESPEC TS_base50_clk = PERIOD "base50_clk" TSclk100 / 0.5 HIGH 50%>
+   CLKFX: <TIMESPEC TS_base50_clk_0 = PERIOD "base50_clk_0" TSclk100 / 0.5 HIGH
+   50%>
 
-INFO:ConstraintSystem:178 - TNM 'crg_clk100b', used in period specification
-   'TS_crg_clk100b', was traced into PLL_ADV instance crg_pll_adv. The following
-   new TNM groups and period specifications were generated at the PLL_ADV
-   output(s): 
-   CLKOUT3: <TIMESPEC TS_crg_unbuf_sdram_half_b = PERIOD
-   "crg_unbuf_sdram_half_b" TS_crg_clk100b / 1.5 PHASE 4.62962963 ns HIGH 50%>
+INFO:ConstraintSystem:178 - TNM 'crg_clk100b_0', used in period specification
+   'TS_crg_clk100b_0', was traced into PLL_ADV instance crg_pll_adv. The
+   following new TNM groups and period specifications were generated at the
+   PLL_ADV output(s): 
+   CLKOUT3: <TIMESPEC TS_crg_unbuf_sdram_half_b_0 = PERIOD
+   "crg_unbuf_sdram_half_b_0" TS_crg_clk100b_0 / 1.5 PHASE 4.62962963 ns HIGH
+   50%>
 
-INFO:ConstraintSystem:178 - TNM 'crg_clk100b', used in period specification
-   'TS_crg_clk100b', was traced into PLL_ADV instance crg_pll_adv. The following
-   new TNM groups and period specifications were generated at the PLL_ADV
-   output(s): 
-   CLKOUT1: <TIMESPEC TS_crg_unbuf_encoder = PERIOD "crg_unbuf_encoder"
-   TS_crg_clk100b / 0.666666667 HIGH 50%>
+INFO:ConstraintSystem:178 - TNM 'crg_clk100b_0', used in period specification
+   'TS_crg_clk100b_0', was traced into PLL_ADV instance crg_pll_adv. The
+   following new TNM groups and period specifications were generated at the
+   PLL_ADV output(s): 
+   CLKOUT1: <TIMESPEC TS_crg_unbuf_encoder_0 = PERIOD "crg_unbuf_encoder_0"
+   TS_crg_clk100b_0 / 0.666666667 HIGH 50%>
 
-INFO:ConstraintSystem:178 - TNM 'crg_clk100b', used in period specification
-   'TS_crg_clk100b', was traced into PLL_ADV instance crg_pll_adv. The following
-   new TNM groups and period specifications were generated at the PLL_ADV
-   output(s): 
-   CLKOUT5: <TIMESPEC TS_crg_unbuf_sys = PERIOD "crg_unbuf_sys" TS_crg_clk100b /
-   0.75 HIGH 50%>
+INFO:ConstraintSystem:178 - TNM 'crg_clk100b_0', used in period specification
+   'TS_crg_clk100b_0', was traced into PLL_ADV instance crg_pll_adv. The
+   following new TNM groups and period specifications were generated at the
+   PLL_ADV output(s): 
+   CLKOUT5: <TIMESPEC TS_crg_unbuf_sys_0 = PERIOD "crg_unbuf_sys_0"
+   TS_crg_clk100b_0 / 0.75 HIGH 50%>
 
-INFO:ConstraintSystem:178 - TNM 'crg_clk100b', used in period specification
-   'TS_crg_clk100b', was traced into PLL_ADV instance crg_pll_adv. The following
-   new TNM groups and period specifications were generated at the PLL_ADV
-   output(s): 
-   CLKOUT0: <TIMESPEC TS_crg_unbuf_sdram_full = PERIOD "crg_unbuf_sdram_full"
-   TS_crg_clk100b / 3 HIGH 50%>
+INFO:ConstraintSystem:178 - TNM 'crg_clk100b_0', used in period specification
+   'TS_crg_clk100b_0', was traced into PLL_ADV instance crg_pll_adv. The
+   following new TNM groups and period specifications were generated at the
+   PLL_ADV output(s): 
+   CLKOUT0: <TIMESPEC TS_crg_unbuf_sdram_full_0 = PERIOD
+   "crg_unbuf_sdram_full_0" TS_crg_clk100b_0 / 3 HIGH 50%>
 
-INFO:ConstraintSystem:178 - TNM 'crg_clk100b', used in period specification
-   'TS_crg_clk100b', was traced into PLL_ADV instance crg_pll_adv. The following
-   new TNM groups and period specifications were generated at the PLL_ADV
-   output(s): 
-   CLKOUT2: <TIMESPEC TS_crg_unbuf_sdram_half_a = PERIOD
-   "crg_unbuf_sdram_half_a" TS_crg_clk100b / 1.5 PHASE 5 ns HIGH 50%>
+INFO:ConstraintSystem:178 - TNM 'crg_clk100b_0', used in period specification
+   'TS_crg_clk100b_0', was traced into PLL_ADV instance crg_pll_adv. The
+   following new TNM groups and period specifications were generated at the
+   PLL_ADV output(s): 
+   CLKOUT2: <TIMESPEC TS_crg_unbuf_sdram_half_a_0 = PERIOD
+   "crg_unbuf_sdram_half_a_0" TS_crg_clk100b_0 / 1.5 PHASE 5 ns HIGH 50%>
 
 WARNING:NgdBuild:1345 - The constraint <TIMESPEC "TSclk100" = PERIOD "PRDclk100"
    10.0 ns HIGH 50%;> [top.ucf(71)] is overridden by the constraint <TIMESPEC

@@ -1,5 +1,5 @@
 //! **************************************************************************
-// Written by: Map P.20131013 on Mon Jul 08 18:30:52 2019
+// Written by: Map P.20131013 on Tue Jul 09 00:44:59 2019
 //! **************************************************************************
 
 SCHEMATIC START;
@@ -8291,14 +8291,14 @@ TIMEGRP crg_unbuf_sdram_full_0 = PIN "OSERDES2_pins<0>" PIN
         "ISERDES2_15_pins<2>";
 TSsys_clk = PERIOD TIMEGRP "PRDsys_clk" 13.3333333 ns HIGH 50%;
 TSclk100 = PERIOD TIMEGRP "PRDclk100" 10 ns HIGH 50%;
-TS_crg_clk100b = PERIOD TIMEGRP "crg_clk100b" TSclk100 HIGH 50%;
-TS_crg_unbuf_sdram_half_b = PERIOD TIMEGRP "crg_unbuf_sdram_half_b"
-        TS_crg_clk100b / 1.5 PHASE 4.62962963 ns HIGH 50%;
-TS_crg_unbuf_sys = PERIOD TIMEGRP "crg_unbuf_sys" TS_crg_clk100b / 0.75 HIGH
-        50%;
-TS_crg_unbuf_sdram_full = PERIOD TIMEGRP "crg_unbuf_sdram_full" TS_crg_clk100b
-        / 3 HIGH 50%;
-TS_crg_unbuf_sdram_half_a = PERIOD TIMEGRP "crg_unbuf_sdram_half_a"
-        TS_crg_clk100b / 1.5 PHASE 5 ns HIGH 50%;
+TS_crg_clk100b_0 = PERIOD TIMEGRP "crg_clk100b_0" TSclk100 HIGH 50%;
+TS_crg_unbuf_sdram_half_b_0 = PERIOD TIMEGRP "crg_unbuf_sdram_half_b_0"
+        TS_crg_clk100b_0 / 1.5 PHASE 4.62962963 ns HIGH 50%;
+TS_crg_unbuf_sys_0 = PERIOD TIMEGRP "crg_unbuf_sys_0" TS_crg_clk100b_0 / 0.75
+        HIGH 50%;
+TS_crg_unbuf_sdram_full_0 = PERIOD TIMEGRP "crg_unbuf_sdram_full_0"
+        TS_crg_clk100b_0 / 3 HIGH 50%;
+TS_crg_unbuf_sdram_half_a_0 = PERIOD TIMEGRP "crg_unbuf_sdram_half_a_0"
+        TS_crg_clk100b_0 / 1.5 PHASE 5 ns HIGH 50%;
 SCHEMATIC END;
 
